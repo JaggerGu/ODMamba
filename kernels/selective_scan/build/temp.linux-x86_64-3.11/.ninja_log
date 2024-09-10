@@ -1,0 +1,4 @@
+# ninja log v5
+0	16426	1723032073594300798	/home/jagger/Desktop/Code/VMamba/kernels/selective_scan/build/temp.linux-x86_64-3.11/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	95e83174b7577164
+0	18610	1723032075798304393	/home/jagger/Desktop/Code/VMamba/kernels/selective_scan/build/temp.linux-x86_64-3.11/csrc/selective_scan/cusoflex/selective_scan_oflex.o	d617995cec0a4849
+0	46159	1723032103330349301	/home/jagger/Desktop/Code/VMamba/kernels/selective_scan/build/temp.linux-x86_64-3.11/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	119ce1133abc9e33
